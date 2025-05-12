@@ -8,4 +8,5 @@ textblob==0.17.1
 deep-translator==1.11.4
 scikit-learn==1.4.2
 joblib==1.4.2
+huggingface-hub==0.20.3
 protobuf==4.25.3
