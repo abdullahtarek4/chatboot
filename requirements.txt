@@ -1,0 +1,6 @@
+flask
+pandas
+sentence-transformers
+vaderSentiment
+torch
+textblob
